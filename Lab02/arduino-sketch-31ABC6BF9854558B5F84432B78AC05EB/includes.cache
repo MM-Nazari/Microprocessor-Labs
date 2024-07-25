@@ -1,0 +1,42 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\MMNazari1380\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.5\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\MMNazari1380\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.5\\variants\\standard"
+  },
+  {
+    "Sourcefile": "C:\\Users\\MMNazari1380\\AppData\\Local\\Temp\\arduino-sketch-31ABC6BF9854558B5F84432B78AC05EB\\sketch\\Micro_Lab02.ino.cpp",
+    "Include": "LiquidCrystal.h",
+    "Includepath": "C:\\Users\\MMNazari1380\\AppData\\Local\\Arduino15\\libraries\\LiquidCrystal\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\MMNazari1380\\AppData\\Local\\Temp\\arduino-sketch-31ABC6BF9854558B5F84432B78AC05EB\\sketch\\Micro_Lab02.ino.cpp",
+    "Include": "Keypad.h",
+    "Includepath": "x:\\3\\libraries\\Keypad\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\MMNazari1380\\AppData\\Local\\Temp\\arduino-sketch-31ABC6BF9854558B5F84432B78AC05EB\\sketch\\Micro_Lab02.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\MMNazari1380\\AppData\\Local\\Arduino15\\libraries\\LiquidCrystal\\src\\LiquidCrystal.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "x:\\3\\libraries\\Keypad\\src\\Key.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "x:\\3\\libraries\\Keypad\\src\\Keypad.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
