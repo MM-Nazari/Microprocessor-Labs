@@ -1,0 +1,12 @@
+{
+  "additionalFiles": "",
+  "builtInLibrariesFolders": "C:\\Users\\MMNazari1380\\AppData\\Local\\Arduino15\\libraries",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "",
+  "fqbn": "arduino:avr:mega:cpu=atmega2560",
+  "hardwareFolders": "c:\\Users\\MMNazari1380\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "x:\\3\\libraries",
+  "runtime.ide.version": "10607",
+  "sketchLocation": "X:\\1\\Micro_Lab01\\Micro_Lab01.ino"
+}
