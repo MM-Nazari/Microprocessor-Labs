@@ -5,7 +5,7 @@
 - [IDE](#ide)
 
 ## Project Description
-For a detailed Labs description, please refer to the [Labs Description PDF](./CA_LAB_InstructionManual_1399_v02.pdf).
+For a detailed Labs description, please refer to the [Labs Description PDF](./دستور20%کار20%آزمایشگاه20%ریزپزدازنده20%و20%زبان20%اسمبلی.pdf.pdf).
 
 ### Lab01
 The Lab Description is provided in the [Lab01 Description PDF](./Lab01/.pdf). <br />
