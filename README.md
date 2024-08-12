@@ -5,7 +5,7 @@
 - [IDE](#ide)
 
 ## Project Description
-For a detailed Labs description, please refer to the [Labs Description PDF](./%20دستور20%کار20%آزمایشگاه20%ریزپزدازنده20%و20%زبان20%اسمبلی.pdf.pdf).
+For a detailed Labs description, please refer to the [Labs Description PDF](./%20دستور20%کار20%آزمایشگاه20%ریزپزدازنده20%و20%زبان20%اسمبلی.pdf).
 
 ### Lab01
 The Lab Description is provided in the [Lab01 Description PDF](./Lab01/.pdf). <br />
