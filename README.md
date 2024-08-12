@@ -5,13 +5,13 @@
 - [IDE](#ide)
 
 ## Project Description
-For a detailed Labs description, please refer to the [Labs Description PDF](./pdf.دستور20%کار20%آزمایشگاه20%ریزپزدازنده20%و20%زبان20%اسمبلی).
+For a detailed Labs description, please refer to the [Labs Description PDF](./Labs-Description.pdf).
 د
 
 ### Lab01
-The Lab Description is provided in the [Lab01 Description PDF](./Lab01/.pdf). <br />
-The Simulation via Proteus is in [Lab01 Simulation](./Lab01/.psdrj). <br />
-The Implemented Code for this part is provided in [Lab01 Arduino Code](./Lab01/.ino).
+The Lab Description is provided in the [Lab01 Description PDF](./Lab01/MicroLab1.pdf). <br />
+The Simulation via Proteus is in [Lab01 Simulation](./Lab01/Micro_Lab1.pdsprj). <br />
+The Implemented Code for this part is provided in [Lab01 Arduino Code](./Lab01/Micro_Lab01/.ino).
 
 ### Lab02
 The Lab Description is provided in the [Lab02 Description PDF](./Lab02/.pdf). <br />
