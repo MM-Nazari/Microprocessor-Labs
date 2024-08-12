@@ -11,7 +11,7 @@ For a detailed Labs description, please refer to the [Labs Description PDF](./La
 ### Lab01
 The Lab Description is provided in the [Lab01 Description PDF](./Lab01/MicroLab1.pdf). <br />
 The Simulation via Proteus is in [Lab01 Simulation](./Lab01/Micro_Lab01.pdsprj). <br />
-The Implemented Code for this part is provided in [Lab01 Arduino Code](./Lab01/Micro_Lab01.ino).
+The Implemented Code for this part is provided in [Lab01 Arduino Code](./Lab01/Micro_Lab01/Micro_Lab01.ino).
 
 ### Lab02
 The Lab Description is provided in the [Lab02 Description PDF](./Lab02/.pdf). <br />
