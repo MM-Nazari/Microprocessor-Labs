@@ -20,7 +20,7 @@ The Implemented Code for this part is provided in [Lab02 Arduino Code](./Lab02/M
 
 ### Lab03
 The Lab Description is provided in the [Lab03 Description PDF](./Lab03/MicroLab3.pdf). <br />
-The Simulation via Proteus is in [Lab03 Simulation](./Lab03/PWM.psdrj). <br />
+The Simulation via Proteus is in [Lab03 Simulation](./Lab03/PWM.pdsprj). <br />
 The Implemented Code for this part is provided in:
 - [PWM](./Lab03/PWM.ino)
 - [Relay](./Lab03/Relay.ino)
